@@ -1,0 +1,45 @@
+﻿Progress,Progress
+Duration (in seconds),Duration (in seconds)
+Finished,Finished
+ResponseId,Response ID
+Q1-Intro,Do you live in California and are you 18+ years old?
+Q3-Intro,Do you consider yourself to be a natural resources or fire professional?
+Q14,Have you completed home retrofitting or remodeling to make your home more resistant to wildfire? (select all that apply) - Selected Choice
+Q14_11_TEXT,Have you completed home retrofitting or remodeling to make your home more resistant to wildfire? (select all that apply) - Other (please specify): - Text
+Q15,What are your three biggest considerations in home retrofitting or remodeling to improve your home‚Äôs fire-resistance? - Selected Choice
+Q15_11_TEXT,What are your three biggest considerations in home retrofitting or remodeling to improve your home‚Äôs fire-resistance? - Other (please specify) - Text
+Q17,"Fuels reduction includes yard work or other vegetation management aimed at reducing the buildup of woody debris, fallen trees, standing dead trees, or other materials that can burn in a wildfire. Have you completed any fuels reduction work on your property?"
+Q18,Which treatment types have you used to reduce hazardous fuels? (select all that apply) - Selected Choice
+Q18_11_TEXT,Which treatment types have you used to reduce hazardous fuels? (select all that apply) - Other (please specify): - Text
+Q19,How did you accomplish your fuels reduction work? - Selected Choice
+Q19_4_TEXT,How did you accomplish your fuels reduction work? - Other (please specify) - Text
+Q20,How did you pay for your fuels reduction work? (select all that apply)
+Q21,What organization provided the grant and/or cost-share agreement? (select all that apply) - Selected Choice
+Q21_13_TEXT,What organization provided the grant and/or cost-share agreement? (select all that apply) - Other (please specify) - Text
+Q23_10_TEXT,What are three primary barriers to creating and/or maintaining fuels reduction work on your property? - Other (please specify) - Text
+Q24,Prescribed fires are controlled fires set intentionally to meet management objectives under applicable laws and regulations. Are you interested in conducting a prescribed fire on your property?
+Q25,What resources would make you more likely to conduct a prescribed fire? (select all that apply) - Selected Choice
+Q25_13_TEXT,What resources would make you more likely to conduct a prescribed fire? (select all that apply) - Other (please explain) - Text
+Q32,Please select three topics you are most interested in learning about - Selected Choice
+Q32_14_TEXT,Please select three topics you are most interested in learning about - Other (please specify) - Text
+Q33,What activities related to the topics above would you be most interested in participating in? (select all that apply) - Selected Choice
+Q33_17_TEXT,What activities related to the topics above would you be most interested in participating in? (select all that apply) - Other (please specify) - Text
+Q34,How do you prefer to receive information? (select all that apply) - Selected Choice
+Q34_23_TEXT,How do you prefer to receive information? (select all that apply) - Other (please specify) - Text
+Q36,Please enter the zip code of your physical residence
+County,In what county is your main residence?
+Q37,"Would you consider the community where you live to be urban, suburban, or rural?"
+Q38,What size is your residential property?
+Q39,"Not including residential use, what would you describe as the primary use(s) for your property? (select all that apply) - Selected Choice"
+Q39_12_TEXT,"Not including residential use, what would you describe as the primary use(s) for your property? (select all that apply) - Other (please specify) - Text"
+Q40,Do you have a conservation easement on your property?
+Q41,What is your age?
+Q42,What is your gender? - Selected Choice
+Q42_4_TEXT,What is your gender? - Other (please specify) - Text
+Q43,What is your race? (select all that apply) - Selected Choice
+Q43_7_TEXT,What is your race? (select all that apply) - Other (please specify) - Text
+Q44,What is/are your preferred language(s)? (select all that apply) - Selected Choice
+Q44_14_TEXT,What is/are your preferred language(s)? (select all that apply) - Other (please specify) - Text
+Q45,Please select your household's approximate annual income
+,
+,
